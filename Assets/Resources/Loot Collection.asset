@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cafe08f3cab3a39428b2709919f4cdfa, type: 3}
+  m_Name: Loot Collection
+  m_EditorClassIdentifier: 
+  _bulletsId: 2
+  _loots:
+  - {fileID: 11400000, guid: 0e4d33f3796f3f3498cceecaa18ec4a9, type: 2}
+  - {fileID: 11400000, guid: 8e1a81123fd62074e97f989e73ae7909, type: 2}
+  - {fileID: 11400000, guid: 66b7332e2c4b2254aa3eeccc103e4636, type: 2}
+  - {fileID: 11400000, guid: 019b21cca38ff334d8981c0c44ae4bc6, type: 2}
+  - {fileID: 11400000, guid: dabef8faf76f161419108d9908beaa07, type: 2}
